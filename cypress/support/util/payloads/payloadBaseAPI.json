@@ -1,0 +1,23 @@
+{
+    "id": 11,
+    "name": "Guia de Motéis",
+    "username": "guia_de_moteis",
+    "email": "gdmg@guiademoteis.com",
+    "address": {
+        "street": "Guia de Moteis",
+        "suite": "Suite 55",
+        "city": "Santo André",
+        "zipcode": "09070-040",
+        "geo": {
+            "lat": "-38.2386",
+            "lng": "57.2232"
+        }
+    },
+    "phone": "11 4002-8922",
+    "website": "https://www.guiademoteis.com.br/sao-paulo/abc",
+    "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+    }
+}

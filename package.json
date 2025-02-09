@@ -1,0 +1,14 @@
+{
+  "name": "guiademoteis_challenge",
+  "version": "1.0.0",
+  "description": "Automação de testes para o desáfio técnido do Guia de Motéis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "João Diniz",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.0.2"
+  }
+}
