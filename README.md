@@ -1,4 +1,4 @@
-# Desafio Técnico Guia de Motéis ☄️
+# Desafio Técnico | QA Pleno - Guia de Motéis ☄️
 
 ## Informações do candidato 🧑‍💼
 - Nome: João Vitor Santos Diniz
@@ -11,7 +11,7 @@
 ## Documento com os testes manuais 📄
 
 - No link abaixo você encontra um documento que serve como relátorio contento os testes front-end, back-end e de performance
-https://docs.google.com/document/d/1dmtsAuRP--8w-BWeYo38FOjWAahEgKZWW2Zv9QJ5UJU/edit?usp=sharing
+- https://docs.google.com/document/d/1dmtsAuRP--8w-BWeYo38FOjWAahEgKZWW2Zv9QJ5UJU/edit?usp=sharing
 
 
 ## Tecnologias usadas 🔧
