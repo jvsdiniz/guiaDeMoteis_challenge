@@ -8,9 +8,9 @@
 - Frameworks e ferramentas para testes: Selenium | Cypress | Appium | BrowserStack | Postman | JMeter
 - Ferramentas de fluxo de trabalho: Jira | Azure DevOps | Confluence | Bitbucket | Kibana | K9S
 
-## Documento com os testes manuais 📄
+## Relatório final 📄
 
-- No link abaixo você encontra um documento que serve como relátorio contento os testes front-end, back-end e de performance
+- No link abaixo você encontra um documento que serve como relatório contento os testes front-end, back-end e de performance
 - https://docs.google.com/document/d/1dmtsAuRP--8w-BWeYo38FOjWAahEgKZWW2Zv9QJ5UJU/edit?usp=sharing
 
 
